@@ -12,5 +12,5 @@ En este repositorio se encuentra el software de ayuda a la depuración de las pr
 
 Actualmente, contiene los siguientes paquetes:
 
-- Common: común al software de varios años
+- Common: módulo común al software de varios cursos
 - IML: Curso 2018-2019 
