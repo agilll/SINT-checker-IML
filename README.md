@@ -4,11 +4,15 @@ Checker de IML del curso 2018-2019
 /****************************************************************
 
 SERVICIOS DE INTERNET 
+
 EE TELECOMUNICACIÓN 
+
 UNIVERSIDAD DE VIGO 
 
 Software de ayuda a la depuración de las prácticas de SINT Lenguaje: IML 
+
 Curso: 2018-2019 
+
 Autor: Alberto Gil Solla 
 
 ****************************************************************/
